@@ -76,6 +76,6 @@ Provide all exercises. For each exercise include the prompts, model outputs, and
 
 ## Resources
 
-* Learn Prompting – Chain of Thought
-* Prompt Engineering Guide – Reasoning Prompts
-* Anthropic Prompt Library – Reasoning Examples
+* [Learn Prompting – Chain of Thought](https://learnprompting.org/docs/intermediate/chain_of_thought)
+* [Prompt Engineering Guide – Reasoning Prompts](https://www.promptingguide.ai/prompts/reasoning)
+* [Anthropic Prompt Library – Reasoning Examples](http://github.com/anthropics/prompt-eng-interactive-tutorial)
