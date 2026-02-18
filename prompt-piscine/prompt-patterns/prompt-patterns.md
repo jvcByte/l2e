@@ -72,6 +72,6 @@ Provide all exercises. For each exercise include the prompts, model outputs, and
 
 ## Resources
 
-* Learn Prompting – Prompt Patterns
-* Prompt Engineering Guide – Templates
-* Awesome ChatGPT Prompts (Free Patterns)
+* [Learn Prompting – Prompt Patterns](https://learnprompting.org/?srsltid=AfmBOoqb6vPTFU-4pa_nnsLmLIeMb-2s7pQSn8K3ma1VGG-LCe4jNtfB)
+* [Prompt Engineering Guide – Templates](https://www.promptingguide.ai/)
+* [Awesome ChatGPT Prompts (Free Patterns)](https://github.com/f/awesome-chatgpt-prompts)
