@@ -5,10 +5,10 @@ def is_palindrome(input_string):
     right = len(cleaned) - 1
     while left < right:
         if cleaned[left] != cleaned[right]:
-            return ("Stopped Being a palindrom comparing index: " + str(left) + " to index: " + str(right))
+            return ("Stopped Being a palindrome comparing index: " + str(left) + " to index: " + str(right))
         left += 1
         right -= 1
-    return True
+    return (cleaned + " Is a palindrome")
 
 
 print(is_palindrome("racecar"))
