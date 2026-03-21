@@ -63,7 +63,4 @@ The Go file system(fs) API
 
 Data manipulation
 
-Something is wrong ?  
-Submit an issue  
-or even better  
-propose a change !
+Something is wrong ?  [Submit an issue](https://github.com/01-edu/public/issues/new?body=ascii-art-fs%0A---%0A&title=ascii-art-fs+subject) or even better  [propose a change !](https://github.com/01-edu/api/content/root/01-edu_module/content/ascii-art-fs/README.md) 
