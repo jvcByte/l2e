@@ -96,7 +96,7 @@ o  o o-o o o o-o         o   o  o o-o o   o-o O $
 
 ## Allowed Packages
 
-- Only the standard [Go packages](https://golang.org/pkg/) are allowed.
+- Only the [standard Go](https://golang.org/pkg/) packages are allowed.
 
 ---
 
